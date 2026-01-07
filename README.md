@@ -132,9 +132,10 @@ graph TD
 - k = 1 → kritikus (atomerőmű)  
 - k > 1 → szuperkritikus (atombomba)  
 
-## 9. Reaktorok és alkalmazások
-**Moderátorok:** víz, grafit  
-**Neutronelnyelők:** kadmium, bór  
+## 9. Alkalmazások
+**Reaktorok:**
+- Moderátorok: víz, grafit  
+- Neutronelnyelők: kadmium, bór  
 
 **Alkalmazások:**
 - Radiokarbon kormeghatározás (¹⁴C, T = 5730 év)  
